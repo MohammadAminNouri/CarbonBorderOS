@@ -258,3 +258,16 @@ Open-source Streamlit platform for EU CBAM scope detection, carbon-cost simulati
 ## License
 
 MIT
+
+## GitHub Actions CI
+
+This repository includes a GitHub Actions workflow at:
+
+```text
+.github/workflows/ci.yml
+```
+
+It runs automatically on every push or pull request to `main`/`master`, and it can also be started manually from the **Actions** tab using **Run workflow**.
+
+If the Actions tab looks empty, check that this file exists in the repository root. GitHub Actions only appears when at least one workflow file is present under `.github/workflows/`.
+
