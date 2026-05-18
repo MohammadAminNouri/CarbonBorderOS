@@ -1,0 +1,2 @@
+date,importer,supplier,product_description,cn_code,origin_country,destination_country,quantity_tonnes,customs_value_eur,supplier_emissions_tco2e_per_t,verified,foreign_carbon_price_eur_per_t,recycled_content_percent,production_route,document_quality_score
+2026-01-01,Your Company,Your Supplier,aluminium profile,76042100,Country,EU country,100,250000,5.2,TRUE,0,30,production route,80

@@ -1,0 +1,14 @@
+prefix,sector,material_family,confidence,scope_note
+72,iron_steel,ferrous metals,0.85,Approximate prefix mapping for demo. Actual CBAM uses CN-level legal list.
+73,iron_steel,ferrous articles,0.78,Approximate prefix mapping for demo. Actual CBAM uses CN-level legal list.
+7601,aluminium,aluminium primary,0.9,Approximate prefix mapping for demo. Actual CBAM uses CN-level legal list.
+7604,aluminium,aluminium extrusions,0.9,Approximate prefix mapping for demo. Actual CBAM uses CN-level legal list.
+7605,aluminium,aluminium wire,0.86,Approximate prefix mapping for demo. Actual CBAM uses CN-level legal list.
+7606,aluminium,aluminium plate sheet strip,0.88,Approximate prefix mapping for demo. Actual CBAM uses CN-level legal list.
+2507,cement,mineral cement input,0.68,Approximate prefix mapping for demo. Actual CBAM uses CN-level legal list.
+2523,cement,cement clinker,0.95,Approximate prefix mapping for demo. Actual CBAM uses CN-level legal list.
+3102,fertilisers,nitrogen fertiliser,0.92,Approximate prefix mapping for demo. Actual CBAM uses CN-level legal list.
+3105,fertilisers,mixed fertiliser,0.8,Approximate prefix mapping for demo. Actual CBAM uses CN-level legal list.
+2814,fertilisers,ammonia,0.88,Approximate prefix mapping for demo. Actual CBAM uses CN-level legal list.
+280410,hydrogen,hydrogen,0.98,Approximate prefix mapping for demo. Actual CBAM uses CN-level legal list.
+2716,electricity,electricity,0.95,Approximate prefix mapping for demo. Actual CBAM uses CN-level legal list.

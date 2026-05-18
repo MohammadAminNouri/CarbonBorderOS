@@ -1,0 +1,13 @@
+date,importer,supplier,product_description,cn_code,origin_country,destination_country,quantity_tonnes,customs_value_eur,supplier_emissions_tco2e_per_t,verified,foreign_carbon_price_eur_per_t,recycled_content_percent,production_route,document_quality_score
+2026-01-14,Demo Auto Components GmbH,Anatolia Steel Works,hot rolled non alloy steel coil,72083900,Turkey,Germany,420,315000,1.95,TRUE,8,18,BF-BOF,78
+2026-01-28,Demo Solar Frames Italia,East Asia Aluminium Co,extruded aluminium profile 6063 T6,76042100,China,Italy,155,512000,12.1,FALSE,0,22,primary smelter,52
+2026-02-03,Demo Construction France,Nile Cement Export,grey Portland cement clinker,25231000,Egypt,France,610,48800,,FALSE,0,0,clinker kiln,43
+2026-02-15,Demo Agri Supply BV,Black Sea Fertilizer,ammonium nitrate fertiliser,31023090,Ukraine,Netherlands,260,93600,2.7,TRUE,3,0,ammonia based,81
+2026-03-01,Demo Green H2 Trading,Maghreb Hydrogen,hydrogen gas,28041000,Morocco,Spain,35,126000,,FALSE,0,0,electrolysis unknown,46
+2026-03-12,Demo Machinery Poland,Shenzhen Fasteners,steel bolts and threaded fasteners,73181595,China,Poland,72,144000,3.3,FALSE,0,12,electric arc furnace,49
+2026-03-24,Demo Cable Systems SE,Nordic Hydro Metals,aluminium wire rod,76051100,Norway,Sweden,88,255000,3.8,TRUE,30,55,hydropower smelter,92
+2026-04-02,Demo Chemical Iberia,Gulf Ammonia,anhydrous ammonia fertiliser input,28141000,Saudi Arabia,Spain,190,76000,2.4,FALSE,0,0,natural gas reforming,58
+2026-04-16,Demo Builders Austria,Adriatic Steel,stainless steel bars,72222031,Serbia,Austria,44,106000,1.4,TRUE,0,40,EAF scrap route,88
+2026-04-30,Demo Electronics France,Global Polymer Parts,polycarbonate enclosure non cbam,39269097,Vietnam,France,20,98000,,FALSE,0,0,injection moulding,67
+2026-05-05,Demo GlassTech Italia,East Asia Aluminium Co,aluminium sheet for frames,76061292,China,Italy,210,650000,11.8,FALSE,0,20,primary smelter,50
+2026-05-11,Demo Steel Service CZ,Anatolia Steel Works,galvanised steel sheet,72104900,Turkey,Czechia,310,361000,2.1,TRUE,8,12,BF-BOF,75

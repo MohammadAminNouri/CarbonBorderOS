@@ -1,0 +1,8 @@
+material,sector,density_kg_m3,relative_strength_index,typical_cost_eur_per_kg,typical_emissions_tco2e_per_t,availability_score,recyclability_score,notes
+Primary aluminium,aluminium,2700,70,3.20,12.0,75,70,Strong lightweight option but high carbon exposure if coal-powered electricity.
+Hydro/recycled aluminium,aluminium,2700,65,3.80,3.5,55,92,Often best CBAM reduction route if properties still satisfy design.
+Carbon steel,iron_steel,7850,80,1.05,2.2,90,85,Cheap and strong but heavier; exposure depends on route.
+EAF recycled steel,iron_steel,7850,75,1.25,0.9,70,92,Lower-carbon option where scrap-based route is verified.
+Stainless steel,iron_steel,8000,85,3.60,4.0,65,80,High durability; emissions and alloy cost can be high.
+Glass fiber composite,not_cbam,1900,60,4.50,4.8,55,30,May avoid current CBAM scope but must satisfy thermal/fire/recycling constraints.
+Engineering polymer,not_cbam,1200,35,2.80,3.2,80,35,Light and often outside current CBAM; mechanical and temperature limits matter.

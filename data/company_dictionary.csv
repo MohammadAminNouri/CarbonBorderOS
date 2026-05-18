@@ -1,0 +1,6 @@
+company_name,country,role,products,cn_codes,main_origins,estimated_annual_tonnes,estimated_cbam_exposure_eur,source_type,confidence,last_updated,notes
+Demo Auto Components GmbH,Germany,EU importer,hot rolled steel; galvanised sheet,72083900;72104900,Turkey,5200,1980000,user_upload_demo,high,2026-05-18,Synthetic sample profile built from demo import ledger.
+Demo Solar Frames Italia,Italy,EU importer,aluminium profiles; aluminium sheets,76042100;76061292,China,3900,4620000,user_upload_demo,medium,2026-05-18,Synthetic sample profile built from demo import ledger.
+Demo Construction France,France,EU importer,cement clinker,25231000,Egypt,7200,462000,user_upload_demo,medium,2026-05-18,Synthetic sample profile built from demo import ledger.
+Demo Agri Supply BV,Netherlands,EU importer,nitrogen fertilisers,31023090,Ukraine,1600,290000,user_upload_demo,high,2026-05-18,Synthetic sample profile built from demo import ledger.
+Demo Cable Systems SE,Sweden,EU importer,aluminium wire rod,76051100,Norway,950,215000,user_upload_demo,high,2026-05-18,Synthetic sample profile built from demo import ledger.

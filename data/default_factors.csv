@@ -1,0 +1,8 @@
+sector,default_emissions_tco2e_per_t,low_benchmark_tco2e_per_t,high_risk_tco2e_per_t,note
+iron_steel,2.50,0.75,4.00,Demo placeholder. Replace with official European Commission default values/benchmarks.
+aluminium,10.50,3.00,16.00,Demo placeholder. Replace with official European Commission default values/benchmarks.
+cement,0.85,0.50,1.10,Demo placeholder. Replace with official European Commission default values/benchmarks.
+fertilisers,2.40,1.20,4.20,Demo placeholder. Replace with official European Commission default values/benchmarks.
+hydrogen,9.00,0.20,12.00,Demo placeholder. Replace with official European Commission default values/benchmarks.
+electricity,0.45,0.05,1.00,Demo placeholder. Replace with official European Commission default values/benchmarks.
+not_cbam,0.00,0.00,0.00,Outside current CBAM demo scope.
