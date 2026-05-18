@@ -10,6 +10,7 @@ def test_cost_formula():
 def test_pipeline_runs():
     df = load_sample_imports()
     out = process_imports(df, cbam_price=75.36)
+
     assert "estimated_cbam_cost_eur" in out.columns
     assert out["estimated_cbam_cost_eur"].sum() > 0
     assert "supplier_risk_score" in out.columns
